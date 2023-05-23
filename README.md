@@ -31,7 +31,7 @@
 ![슬라이드31](https://github.com/KTigerz/Hackathon/assets/124761728/5f3abf4f-6b97-4ee9-b9f6-229f4e71f9ce)
 ![슬라이드32](https://github.com/KTigerz/Hackathon/assets/124761728/ba82e103-56a3-4fd1-9e07-8c7e9d51177b)
 ![슬라이드33](https://github.com/KTigerz/Hackathon/assets/124761728/11210d2c-6239-44b2-98b6-d1e8efb5d0ea)
-![슬라이드34](https://github.com/KTigerz/Hackathon/assets/124761728/6e21cf7d-e841-42e4-b8ea-36aa965649eb)
+![슬라이드34](https://github.com/KTigerz/Hackathon/assets/124761728/b58e31a1-e178-4527-8a5d-9f02db7cdc84)
 ![슬라이드35](https://github.com/KTigerz/Hackathon/assets/124761728/ae8678c9-8586-4210-b665-403edd2bae80)
 ![슬라이드36](https://github.com/KTigerz/Hackathon/assets/124761728/56561a10-2385-47e5-bcf4-64bf3439577e)
 ![슬라이드37](https://github.com/KTigerz/Hackathon/assets/124761728/09651c79-e8fc-4395-b616-7e04f83cde82)
